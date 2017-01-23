@@ -7,3 +7,7 @@ _Plutus_ is a Stock Tracking Analysis & Prediction service which is an aid to in
 ## 3.2 Justification
 
 As this is a data driven anaylsis service, knowledge of data structures and algorithms is crucial. Databases services to help the creation of an efficient database system geared toward the data driven analysis. Operating Systems helps with server architecture, networking techniques, and concurrency. This also builds on my 401 project, _SPY_, as this project follows a similar server architecture, but with a lot of focus on the data driven analysis which _SPY_ lacked. With this, there is an appropriate amount of difficulty, because most of the effort of this project is on the anaylsis algorithm, and less so on the repeated tasks like creating the backend and database architecture. Assuming no major road blocks occur on the anaylsis algorithm, this project should be well within the purview of one semester. 
+
+### 3.3 Presentations
+
+All presentations can be viewed [here](https://drive.google.com/open?id=0B0I8Acds3WQYZnh2a3pzQkI2S2c).
