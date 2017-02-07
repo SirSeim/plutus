@@ -4,7 +4,7 @@
 - [5.1 Introduction](#51-introduction)
 - [5.2 Functional Requirements](#52-functional-requirements)
 - [5.3 Performance Requirements](#53-performance-requirements)
-- [5.4 Environmental Requirements](#54-environmental-requirements)
+- [5.4 Environment Requirements](#54-environment-requirements)
 
 ## 5.1 Introduction
 
@@ -14,9 +14,9 @@ _Plutus_ is a Stock Tracking Analysis & Prediction service which is an aid to in
 
 ## 5.3 Performance Requirements
 
-## 5.4 Environmental Requirements
+## 5.4 Environment Requirements
 
-#### 5.4.1 Development Environmental Requirements
+#### 5.4.1 Development Environment Requirements
 
 The following hardware is required for development:
 
@@ -38,7 +38,7 @@ The following software is required for development:
 | Test Database | PostgreSQL |
 | Graphics | Adobe Illustrator |
 
-#### 5.4.2 Execution Environmental  Requirements
+#### 5.4.2 Execution Environment  Requirements
 
 The following hardware is required for execution for the server:
 
