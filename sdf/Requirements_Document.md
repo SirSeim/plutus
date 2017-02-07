@@ -22,7 +22,11 @@ The following hardware is required for development:
 
 | Category | Requirement |
 | --- | --- |
-|
+| Processor | relatively recent |
+| Hard Drive Space | 5 GB starting |
+| RAM | 4 GB for efficient performance |
+| Display | must have a display |
+| Sound Card | optional |
 
 The following software is required for development:
 
@@ -31,7 +35,7 @@ The following software is required for development:
 | Operating System | macOS |
 | Text Editor | Atom |
 | Run Server | Node |
-| Test Database | Postgres |
+| Test Database | PostgreSQL |
 | Graphics | Adobe Illustrator |
 
 #### 5.4.2 Execution Environmental  Requirements
@@ -40,22 +44,32 @@ The following hardware is required for execution for the server:
 
 | Category | Requirement |
 | --- | --- |
-|
+| Processor | relatively recent |
+| Hard Drive Space | 5 GB starting |
+| RAM | 4 GB for efficient performance |
+| Display | optional |
+| Sound Card | optional |
 
 The following software is required for execution for the server:
 
 | Category | Requirement |
 | --- | --- |
-|
+| Operating System | macOS _or_ Linux |
+| Run Server | Node |
+| Database | PostgreSQL
 
 The following hardware is required for execution for the client:
 
 | Category | Requirement |
 | --- | --- |
-|
+| Processor | relatively recent |
+| Hard Drive Space | none required for online website |
+| RAM | sufficient RAM for a web browser |
+| Display | must have a display |
+| Sound Card | optional |
 
 The following software is required for execution for the client:
 
 | Category | Requirement |
 | --- | --- |
-|
+| web browser | any |
